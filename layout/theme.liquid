@@ -383,6 +383,17 @@
           /* font-size: 1.6rem; */
         }
       }
+
+      /* Hide Atlas theme license overlay - theme is free to use */
+      #msg-error {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+        position: absolute !important;
+        left: -9999px !important;
+        z-index: -9999 !important;
+      }
     {% endstyle %}
 
     {{ 'base.min.css' | asset_url | stylesheet_tag: preload: true }}
@@ -466,6 +477,19 @@
   </head>
 
   <body class="gradient">
+    <script>
+      (function() {
+        function removeLicenseOverlay() {
+          var el = document.getElementById('msg-error');
+          if (el && el.parentNode) el.parentNode.removeChild(el);
+        }
+        removeLicenseOverlay();
+        document.addEventListener('DOMContentLoaded', removeLicenseOverlay);
+        [500, 2000, 4000].forEach(function(ms) {
+          setTimeout(removeLicenseOverlay, ms);
+        });
+      })();
+    </script>
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ 'accessibility.skip_to_text' | t }}
     </a>
