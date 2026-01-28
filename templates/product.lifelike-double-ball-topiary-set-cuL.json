@@ -1287,49 +1287,6 @@
         "padding_top": 24,
         "padding_bottom": 24
       }
-    },
-    "contact_form_3MgtG3": {
-      "type": "contact-form",
-      "name": "t:sections.contact-form.presets.name",
-      "settings": {
-        "heading": "Reach Out Any Time",
-        "image_height": "adapt",
-        "heading_alignment": "left",
-        "image_first_desktop": false,
-        "image_first_mobile": false,
-        "content_gap_desktop": 35,
-        "content_gap_mobile": 14,
-        "space_between_heading_and_form_desktop": 20,
-        "space_between_heading_and_form_mobile": 14,
-        "content_align_desktop": "flex-start",
-        "content_align_mobile": "flex-start",
-        "contact_image_width_desktop": 500,
-        "contact_image_border_radius": 10,
-        "heading_font_size": 40,
-        "heading_mob_font_size": 28,
-        "heading_color": "#000000",
-        "bolded_heading_color": "#000000",
-        "heading_use_gradient": true,
-        "heading_gradient_color": "linear-gradient(180deg, rgba(251, 51, 164, 1), rgba(127, 72, 176, 1) 50%, rgba(48, 145, 211, 1) 100%)",
-        "color_scheme": "accent-1",
-        "input_background_color": "#d9f2e6",
-        "input_text_color": "#1d1a2d",
-        "placeholder_color": "#686868",
-        "input_border_radius": 6,
-        "input_border": false,
-        "borders_color": "#000000",
-        "borders_opacity": 10,
-        "button_text": "Send Message",
-        "button_full_width": true,
-        "button_font_size": 12,
-        "button_background_color": "#1d1a2d",
-        "button_text_color": "#ffffff",
-        "button_border_radius": 6,
-        "button_padding_horizontal": 24,
-        "button_padding_vertical": 8,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
     }
   },
   "order": [
@@ -1340,7 +1297,6 @@
     "feature_icons_bDyMKj",
     "comparison_table_jRgDad",
     "testimonials_AiHw4G",
-    "collapsible_content_qCMdgd",
-    "contact_form_3MgtG3"
+    "collapsible_content_qCMdgd"
   ]
 }
