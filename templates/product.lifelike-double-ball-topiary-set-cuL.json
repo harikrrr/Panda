@@ -118,7 +118,7 @@
                   "type": "_rating_content",
                   "static": true,
                   "settings": {
-                    "rating_text": "<p><strong>4.7</strong> | <strong>&lcub;num&rcub;</strong> Customers </p>",
+                    "rating_text": "<p><strong>4.7</strong> | <strong>3743</strong> Customers </p>",
                     "product_rating": 4.7,
                     "rating_text_font_size": 13,
                     "rating_text_mob_font_size": 12,
