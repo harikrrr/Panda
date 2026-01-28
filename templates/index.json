@@ -546,6 +546,22 @@
         "section_padding_bottom_desktop": 36
       }
     },
+    "borders_nLb3fz": {
+      "type": "borders",
+      "name": "t:sections.borders.name",
+      "settings": {
+        "shape": "waves",
+        "border_size": "60",
+        "flip_horizontal": false,
+        "flip_vertical": true,
+        "shape_color": "base-accent-2",
+        "enable_custom_shape_color": true,
+        "custom_shape_color": "#00796b",
+        "background_color": "base-accent-1",
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    },
     "collapsible_content_4h9Diq": {
       "type": "collapsible-content",
       "blocks": {
@@ -867,6 +883,7 @@
     "testimonials_zhAzJk",
     "borders_TanT6h",
     "comparison_table_zM4Ngh",
+    "borders_nLb3fz",
     "collapsible_content_4h9Diq",
     "feature_icons_MMNaQM",
     "image_comparison_slider_y3wPPw"
