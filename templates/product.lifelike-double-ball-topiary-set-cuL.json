@@ -267,46 +267,6 @@
               },
               "block_order": []
             },
-            "divider_XjYQhi": {
-              "type": "divider",
-              "name": "Divider",
-              "settings": {
-                "divider_height": 1,
-                "divider_color": "#000000",
-                "divider_opacity": 20,
-                "padding_top": 10,
-                "padding_bottom": 10,
-                "padding_top_mobile": 10,
-                "padding_bottom_mobile": 10
-              },
-              "blocks": {}
-            },
-            "variant_picker_cca4P7": {
-              "type": "variant_picker",
-              "name": "Variant Picker",
-              "settings": {
-                "enable_color_swatches": true,
-                "picker_type": "button",
-                "custom_swatch_option_name": "Color",
-                "color_swatch_type": "image",
-                "swatch_size": "6rem",
-                "swatch_type": "circle",
-                "variants_custom_color": "#000000",
-                "pills_border_radius": 70,
-                "pills_font_size": 14,
-                "pills_vertical_spacing": 10,
-                "pills_horizontal_spacing": 15,
-                "pills_background_color": "#f6f6f6",
-                "pills_selected_background_color": "#000000",
-                "pills_text_color": "#000000",
-                "pills_selected_text_color": "#ffffff",
-                "padding_top": 0,
-                "padding_bottom": 12,
-                "padding_top_mobile": 0,
-                "padding_bottom_mobile": 0
-              },
-              "blocks": {}
-            },
             "quantity_selector_BqH8Bi": {
               "type": "quantity_selector",
               "name": "Buy buttons",
@@ -396,7 +356,7 @@
               "type": "social_proof",
               "name": "Social Proof",
               "settings": {
-                "purchase_text": "Sarah and 438 people purchased",
+                "purchase_text": "Jacob and 23 people purchased",
                 "text_color": "#1d1a2d",
                 "font_size": 12,
                 "padding_top": 0,
@@ -697,8 +657,6 @@
             "text_DHFDL8",
             "price_rNLTVV",
             "bullet_point_benefits_L9Ekdy",
-            "divider_XjYQhi",
-            "variant_picker_cca4P7",
             "quantity_selector_BqH8Bi",
             "social_proof_t6FNkr",
             "payment_badges_mdNTxn",
