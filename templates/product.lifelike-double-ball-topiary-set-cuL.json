@@ -356,7 +356,7 @@
               "type": "social_proof",
               "name": "Social Proof",
               "settings": {
-                "purchase_text": "Jacob and 23 people purchased",
+                "purchase_text": "Jacob and 23 people purchased today",
                 "text_color": "#1d1a2d",
                 "font_size": 12,
                 "padding_top": 0,
