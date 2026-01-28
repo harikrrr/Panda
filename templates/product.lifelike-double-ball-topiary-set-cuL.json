@@ -550,6 +550,12 @@
     "horizontal_scrolling_text_mgft6H": {
       "type": "horizontal-scrolling-text",
       "blocks": {
+        "text_zxUEwb": {
+          "type": "text",
+          "settings": {
+            "title": "Atlas"
+          }
+        },
         "text_bhKVK4": {
           "type": "text",
           "settings": {
@@ -576,6 +582,7 @@
         }
       },
       "block_order": [
+        "text_zxUEwb",
         "text_bhKVK4",
         "text_WjTjtc",
         "text_hfPTxT",
@@ -647,169 +654,6 @@
         "button_width_increase_mobile": 0,
         "padding_top": 12,
         "padding_bottom": 12
-      }
-    },
-    "scrolling_images_UgXcTG": {
-      "type": "scrolling-images",
-      "blocks": {
-        "slide_HnEeeE": {
-          "type": "slide",
-          "settings": {
-            "link": ""
-          }
-        },
-        "slide_AdAJPm": {
-          "type": "slide",
-          "settings": {
-            "link": ""
-          }
-        },
-        "slide_Tkcitt": {
-          "type": "slide",
-          "settings": {
-            "link": ""
-          }
-        },
-        "slide_wFQKM9": {
-          "type": "slide",
-          "settings": {
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide_HnEeeE",
-        "slide_AdAJPm",
-        "slide_Tkcitt",
-        "slide_wFQKM9"
-      ],
-      "settings": {
-        "section_heading": "As seen on",
-        "heading_alignment": "center",
-        "font_size": 20,
-        "mobile_font_size": 16,
-        "header_color": "#000000",
-        "header_highlighted_color": "#000000",
-        "heading_use_gradient": false,
-        "heading_gradient_color": "",
-        "pause_hover": true,
-        "slider_direction": "right",
-        "scrolling_velocity": 2,
-        "slider_gap": 52,
-        "slider_gap_mobile": 15,
-        "icon_width": 120,
-        "icon_width_mobile": 250,
-        "image_border_radius": 8,
-        "color_scheme": "accent-1",
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "borders_3WVyHf": {
-      "type": "borders",
-      "settings": {
-        "shape": "waves",
-        "border_size": "60",
-        "flip_horizontal": true,
-        "flip_vertical": false,
-        "shape_color": "base-custom-color-2",
-        "enable_custom_shape_color": false,
-        "custom_shape_color": "#00796b",
-        "background_color": "base-accent-1",
-        "padding_top": 10,
-        "padding_bottom": 10
-      }
-    },
-    "rich_text_rPfaL7": {
-      "type": "rich-text",
-      "blocks": {
-        "list-cards": {
-          "type": "_rich-text-list-cards",
-          "static": true,
-          "settings": {
-            "text_alignment": "center",
-            "cards_layout": "left",
-            "font_size": 14,
-            "color": "#ffffff",
-            "bg_color": "#ffffff",
-            "background_opacity": 27,
-            "border_color": "#ffffff",
-            "border_radius": 10,
-            "gap_between_cards": 8,
-            "padding_top": 0,
-            "padding_bottom": 0
-          },
-          "blocks": {
-            "rich_text_list_card_WDMVxF": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Perfect symmetry made easy</p>"
-              },
-              "blocks": {}
-            },
-            "rich_text_list_card_PJtK9f": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Brightens up dark spaces</p>"
-              },
-              "blocks": {}
-            },
-            "rich_text_list_card_KEeKPf": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Looks and feels authentic</p>"
-              },
-              "blocks": {}
-            },
-            "rich_text_list_card_ibmQHp": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Reclaim your free time</p>"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "rich_text_list_card_WDMVxF",
-            "rich_text_list_card_PJtK9f",
-            "rich_text_list_card_KEeKPf",
-            "rich_text_list_card_ibmQHp"
-          ]
-        }
-      },
-      "settings": {
-        "heading": "Instant Sophistication With Zero Maintenance",
-        "text": "<p>Keeping plants alive is often a frustrating, time-consuming struggle. These realistic accents provide permanent, vibrant beauty without requiring any attention.</p>",
-        "content_alignment": "center",
-        "text_max_width_percentage": 80,
-        "text_max_width_percentage_mobile": 100,
-        "heading_font_size": 35,
-        "mobile_heading_font_size": 25,
-        "heading_color": "#ffffff",
-        "heading_highlighted_color": "#ffffff",
-        "heading_use_gradient": false,
-        "heading_gradient_color": "",
-        "body_font_size": 16,
-        "body_color": "#ffffff",
-        "body_highlighted_color": "#ffffff",
-        "color_scheme": "accent-3",
-        "button_label": "Shop Now",
-        "button_link": "#main-product-top",
-        "button_font_size": 14,
-        "button_font_size_mobile": 12,
-        "button_color": "#ffffff",
-        "button_bg_color": "#1d1a2d",
-        "button_border_radius": 6,
-        "button_padding_vertical": 0,
-        "button_width_increase_desktop": 52,
-        "button_padding_vertical_mobile": 8,
-        "button_width_increase_mobile": 80,
-        "padding_top": 24,
-        "padding_bottom": 62
       }
     },
     "reasons_GqYHik": {
@@ -1636,9 +1480,6 @@
     "main",
     "horizontal_scrolling_text_mgft6H",
     "image_with_text_jxiKk3",
-    "scrolling_images_UgXcTG",
-    "borders_3WVyHf",
-    "rich_text_rPfaL7",
     "reasons_GqYHik",
     "feature_icons_bDyMKj",
     "borders_6ffEVj",
