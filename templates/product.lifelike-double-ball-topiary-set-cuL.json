@@ -688,29 +688,6 @@
           },
           "blocks": {}
         },
-        "reasons_to_buy_product_card_3LG667": {
-          "type": "_reasons-to-buy-product-card",
-          "settings": {
-            "product_url": "#main-product-top",
-            "product_image": "shopify://shop_images/81ehRGS897L._SL1500.jpg",
-            "product_title": "<p>Lifelike Double Ball Topiary Set</p>",
-            "product_description": "<p></p>",
-            "product_title_font_size": 17,
-            "product_title_color": "#ffffff",
-            "product_description_font_size": 14,
-            "product_description_color": "#ffffff",
-            "card_background_color": "#00796b",
-            "card_has_gradient": false,
-            "card_gradient": "linear-gradient(180deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
-            "product_description_opacity": 70,
-            "arrow_icon_color": "#ffffff",
-            "card_border_radius": 10,
-            "thumbnail_border_radius": 4,
-            "text_content_gap": 10,
-            "text_content_gap_mobile": 11
-          },
-          "blocks": {}
-        },
         "reasons_to_buy_stats_TQiBR8": {
           "type": "_reasons-to-buy-stats",
           "settings": {
@@ -770,7 +747,6 @@
       },
       "block_order": [
         "reasons_to_buy_content_rmwz9L",
-        "reasons_to_buy_product_card_3LG667",
         "reasons_to_buy_stats_TQiBR8"
       ],
       "name": "Reasons to buy",
@@ -882,22 +858,6 @@
         "color_scheme": "accent-1",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "borders_6ffEVj": {
-      "type": "borders",
-      "name": "Section border",
-      "settings": {
-        "shape": "waves",
-        "border_size": "60",
-        "flip_horizontal": true,
-        "flip_vertical": false,
-        "shape_color": "base-custom-color-2",
-        "enable_custom_shape_color": false,
-        "custom_shape_color": "#00796b",
-        "background_color": "base-accent-1",
-        "padding_top": 10,
-        "padding_bottom": 10
       }
     },
     "comparison_table_jRgDad": {
@@ -1380,7 +1340,6 @@
     "image_with_text_jxiKk3",
     "reasons_GqYHik",
     "feature_icons_bDyMKj",
-    "borders_6ffEVj",
     "comparison_table_jRgDad",
     "testimonials_AiHw4G",
     "collapsible_content_qCMdgd",
