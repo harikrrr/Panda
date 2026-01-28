@@ -17,7 +17,7 @@
         "brand_information_dHY6Qg": {
           "type": "brand_information",
           "settings": {
-            "show_brand_description": true,
+            "show_brand_description": false,
             "show_copyright": true,
             "show_social": true,
             "text_alignment": "start",
