@@ -220,163 +220,6 @@
         "padding_bottom": 12
       }
     },
-    "rich_text_P9Xf6T": {
-      "type": "rich-text",
-      "blocks": {
-        "list-cards": {
-          "type": "_rich-text-list-cards",
-          "disabled": true,
-          "static": true,
-          "settings": {
-            "text_alignment": "center",
-            "cards_layout": "left",
-            "font_size": 14,
-            "color": "#ffffff",
-            "bg_color": "#ffffff",
-            "background_opacity": 45,
-            "border_color": "#ffffff",
-            "border_radius": 10,
-            "gap_between_cards": 18,
-            "padding_top": 37,
-            "padding_bottom": 0
-          },
-          "blocks": {}
-        }
-      },
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "heading": "Customer's Review Title",
-        "text": "<p>Insert review text here</p>",
-        "content_alignment": "center",
-        "text_max_width_percentage": 80,
-        "text_max_width_percentage_mobile": 100,
-        "heading_font_size": 35,
-        "mobile_heading_font_size": 25,
-        "heading_color": "#000000",
-        "heading_highlighted_color": "#000000",
-        "heading_use_gradient": true,
-        "heading_gradient_color": "",
-        "body_font_size": 14,
-        "body_color": "#302f2f",
-        "body_highlighted_color": "#302f2f",
-        "color_scheme": "accent-1",
-        "button_label": "",
-        "button_link": "",
-        "button_font_size": 14,
-        "button_font_size_mobile": 12,
-        "button_color": "#ffffff",
-        "button_bg_color": "#000000",
-        "button_border_radius": 6,
-        "button_padding_vertical": 8,
-        "button_width_increase_desktop": 0,
-        "button_padding_vertical_mobile": 8,
-        "button_width_increase_mobile": 80,
-        "padding_top": 24,
-        "padding_bottom": 36
-      }
-    },
-    "key_features_qFGttc": {
-      "type": "key-features",
-      "blocks": {
-        "key_features_list_KxEY6K": {
-          "type": "_key-features-list",
-          "settings": {
-            "card_list_item_title_font_size_desktop": 16,
-            "card_list_item_title_font_size_mobile": 14,
-            "card_list_item_title_color": "#ffffff",
-            "card_list_item_text_font_size_desktop": 14,
-            "card_list_item_text_font_size_mobile": 12,
-            "card_list_item_text_color": "#eaeaea",
-            "card_list_item_badge_font_size_desktop": 13,
-            "card_list_item_badge_font_size_mobile": 12,
-            "card_list_item_badge_color": "#1e1e1e",
-            "card_list_item_badge_background_color": "#ffffff",
-            "badge_has_border": true,
-            "badge_border_color": "#ffffff",
-            "badge_border_width": 1,
-            "card_list_item_badge_border_radius": 140,
-            "card_list_item_badge_padding_vertical": 3,
-            "card_list_item_badge_padding_horizontal": 10,
-            "card_list_item_left_line_color": "#ffffff",
-            "card_list_item_left_line_has_gradient": false,
-            "card_list_item_left_line_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
-            "card_list_item_left_line_opacity": 60,
-            "card_list_item_left_line_width": 1,
-            "card_list_arrow_size": 18,
-            "card_list_item_arrow_color": "#ffffff",
-            "card_list_item_arrow_opacity": 60
-          },
-          "blocks": {
-            "key_feature_item_K4k9tx": {
-              "type": "_key-feature-item",
-              "name": "Key feature",
-              "settings": {
-                "badge": "<p>First Benefit</p>",
-                "title": "<p>Zero Maintenance</p>",
-                "text": "<p>Stays lush and green without any work.</p>",
-                "image": "shopify://shop_images/71rfCIvT0pL._SL1500.jpg"
-              },
-              "blocks": {}
-            },
-            "key_feature_item_txmV6j": {
-              "type": "_key-feature-item",
-              "name": "Key feature",
-              "settings": {
-                "badge": "<p>Second Benefit</p>",
-                "title": "<p>Lifelike Texture</p>",
-                "text": "<p>Detailed design mimics nature's organic beauty.</p>",
-                "image": "shopify://shop_images/71rfCIvT0pL._SL1500.jpg"
-              },
-              "blocks": {}
-            },
-            "key_feature_item_KnfB6T": {
-              "type": "_key-feature-item",
-              "name": "Key feature",
-              "settings": {
-                "badge": "<p>Third Benefit </p>",
-                "title": "<p>Instant Styling</p>",
-                "text": "<p>Create a balanced, high-end look instantly.</p>",
-                "image": "shopify://shop_images/71rfCIvT0pL._SL1500.jpg"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "key_feature_item_K4k9tx",
-            "key_feature_item_txmV6j",
-            "key_feature_item_KnfB6T"
-          ]
-        }
-      },
-      "block_order": [
-        "key_features_list_KxEY6K"
-      ],
-      "name": "Product key features",
-      "settings": {
-        "card_title": "<p>Transform Your Space Without The Effort</p>",
-        "card_image": "shopify://shop_images/71rfCIvT0pL._SL1500.jpg",
-        "image_height": "small",
-        "card_title_font_size_desktop": 35,
-        "card_title_font_size_mobile": 25,
-        "card_title_color": "#ffffff",
-        "card_title_color_bold": "#ffffff",
-        "card_title_use_gradient": false,
-        "card_title_color_bold_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
-        "card_max_width": 1600,
-        "card_gap_desktop": 60,
-        "card_gap_mobile": 30,
-        "card_border_radius": 5,
-        "card_top_padding": 16,
-        "card_bottom_padding": 16,
-        "card_left_padding": 16,
-        "card_right_padding": 16,
-        "card_image_border_radius": 8,
-        "card_color_scheme": "accent-3",
-        "color_scheme": "custom-color-1",
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "testimonials_zhAzJk": {
       "type": "testimonials",
       "blocks": {
@@ -460,11 +303,11 @@
         "slide_nGQn7p"
       ],
       "settings": {
-        "section_heading": "Join over 10,000+ Happy Customers",
+        "section_heading": "Join over 3743 Happy Customers",
         "show_navigation_buttons": true,
         "show_overall_rating": true,
-        "overall_rating_text": "{rating_value} | {num} Customers",
-        "overall_rating_value": 4.8,
+        "overall_rating_text": "4.7 | 3473 Customers",
+        "overall_rating_value": 4.7,
         "show_opacity_on_inactive_slides": false,
         "heading_font_size": 35,
         "mobile_heading_font_size": 25,
@@ -479,7 +322,7 @@
         "overall_rating_text_color": "#ffffff",
         "overall_rating_background_color": "#00796b",
         "overall_rating_use_gradient": false,
-        "overall_rating_gradient_color": "linear-gradient(160deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
+        "overall_rating_gradient_color": "linear-gradient(160deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
         "overall_rating_border_radius": 3,
         "slide_box_shadow": false,
         "slide_background_color": "#d9f2e6",
@@ -1096,8 +939,6 @@
     "image_banner_TVECWz",
     "image_with_text_NrYFbe",
     "benefits_cards_AHFLcL",
-    "rich_text_P9Xf6T",
-    "key_features_qFGttc",
     "testimonials_zhAzJk",
     "borders_TanT6h",
     "comparison_table_zM4Ngh",
