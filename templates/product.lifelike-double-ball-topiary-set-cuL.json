@@ -1293,7 +1293,6 @@
       "name": "t:sections.contact-form.presets.name",
       "settings": {
         "heading": "Reach Out Any Time",
-        "contact_image": "shopify://shop_images/81nZzKd6LLL._SL1500.jpg",
         "image_height": "adapt",
         "heading_alignment": "left",
         "image_first_desktop": false,
